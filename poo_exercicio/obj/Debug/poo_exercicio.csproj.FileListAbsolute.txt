@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\poo_exercicio\poo_exercicio\bin\Debug\poo_exercicio.exe.config
+C:\Users\Usuario\source\repos\poo_exercicio\poo_exercicio\bin\Debug\poo_exercicio.exe
+C:\Users\Usuario\source\repos\poo_exercicio\poo_exercicio\bin\Debug\poo_exercicio.pdb
+C:\Users\Usuario\source\repos\poo_exercicio\poo_exercicio\obj\Debug\poo_exercicio.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\poo_exercicio\poo_exercicio\obj\Debug\poo_exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\poo_exercicio\poo_exercicio\obj\Debug\poo_exercicio.exe
+C:\Users\Usuario\source\repos\poo_exercicio\poo_exercicio\obj\Debug\poo_exercicio.pdb
